@@ -10,7 +10,6 @@ body {
 	box-sizing: border-box;
 }
 
-/*general*/
 
 .container {
 	width: 100%;
@@ -43,7 +42,6 @@ h3 {
 	font-size: 22px;
 }
 
-/*header*/
 
 #masthead {
 	background: #fff;
@@ -85,7 +83,6 @@ nav a:first-child {
 	border-left: 0 none;
 }
 
-/*footer*/
 
 footer {
 	background: #666;
@@ -98,7 +95,6 @@ footer {
 	text-align: center;
 }
 
-/*sidebar*/
 
 .sidebar {
 	background: #fff;
@@ -126,7 +122,6 @@ h3,
 	margin-right: 0;
 }
 
-/*main*/
 
 #main-container {
 	padding-top: 130px;
@@ -141,7 +136,6 @@ h3,
 	border: 1px solid #ddd;
 }
 
-/*portfolio page*/
 
 .work {
 	width: 274px;
@@ -179,7 +173,6 @@ h3,
 	margin-right: 25px;
 }
 
-/*contact page*/
 
 #contact-form ul {
 	margin-bottom: 20px;
